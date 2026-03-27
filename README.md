@@ -30,7 +30,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/ai-math-master.git](https://github.com/yourusername/ai-math-master.git)
+   git clone https://github.com/D14M0NDS4N/AI-Math-App.git
    
 2. Navigate into the project directory:
 cd ai-math-master
